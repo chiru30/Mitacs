@@ -5,7 +5,9 @@ require(ggplot2)                                   #For Figures
 library(glmnet)                                    #For Lasso
 library(e1071)                                     #For machine learning methods
 library(caTools)                                   #For machine learning methods
+
 #DATA GENERATION---------------------------------------------------------------
+
 set.seed(7267166) 
 n <- 100                                           #Sample size
 beta_imp   <- c(rep(5,10))                         #Coef for imprortant variables  
