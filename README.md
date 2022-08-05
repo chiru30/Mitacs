@@ -1,5 +1,5 @@
 # Mitacs
 
 todo:
-[]car sales
-[x] ridge
+- car sales
+- [x] ridge
